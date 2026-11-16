@@ -236,15 +236,6 @@ Designed with a futuristic visual direction and interactive web elements.
 <!-- Add your GitLab activity graph here if you have a GitLab account and a generated activity SVG. -->
 
 </div>
-
-<div align="center">
-
-🟢 **GitHub** — Public and eligible repository contribution activity
-
-🔵 **GitLab** — GitLab development activity (optional)
-
-</div>
-
 ---
 
 <h2 align="center">🧬 Developer Analytics</h2>
