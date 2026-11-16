@@ -1,28 +1,28 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120000,25:7A0000,55:FF0000,80:9B00FF,100:00D9FF&height=230&section=header&text=HESHAN%20MADHUWANTHA&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20DESIGNER%20%7C%20FRONTEND%20DEVELOPER&descSize=16&descAlignY=60&descColor=FFFFFF" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B14,25:FF2EDB,55:8B5CF6,80:00F5FF,100:B3FF00&height=230&section=header&text=HESHAN%20MADHUWANTHA&fontSize=43&fontColor=F5F7FF&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20DESIGNER%20%7C%20FRONTEND%20DEVELOPER&descSize=16&descAlignY=60&descColor=F5F7FF" width="100%" alt="Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=FF3131&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Heshan+Madhuwantha+%F0%9F%91%8B;UI%2FUX+Designer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing Introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=FF4FD8&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Heshan+Madhuwantha+%F0%9F%91%8B;UI%2FUX+Designer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing Introduction"/>
 
 <br/>
 
 <a href="https://heshanmadhuwantha.github.io/Madhuwantha-portfolio/#about">
-<img src="https://img.shields.io/badge/Portfolio-FF3131?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/heshanmadhuwantha/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-00B9FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/heshanmadhuwantha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=heshanmadhuwantha&label=PROFILE+VIEWS&color=FF3131&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/heshanmadhuwantha?label=FOLLOWERS&style=for-the-badge&logo=github&color=00D9FF&logoColor=white" alt="GitHub Followers"/>
-<img src="https://img.shields.io/badge/LOCATION-SRI%20LANKA-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/FOCUS-BUILDING%20THE%20FUTURE-FF3131?style=for-the-badge" alt="Current Focus"/>
+<img src="https://komarev.com/ghpvc/?username=heshanmadhuwantha&label=PROFILE+VIEWS&color=FF4FD8&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/heshanmadhuwantha?label=FOLLOWERS&style=for-the-badge&logo=github&color=00F5FF&logoColor=white" alt="GitHub Followers"/>
+<img src="https://img.shields.io/badge/LOCATION-SRI%20LANKA-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/FOCUS-BUILDING%20THE%20FUTURE-FF4FD8?style=for-the-badge" alt="Current Focus"/>
 
 </div>
 
@@ -190,7 +190,7 @@ Designed with a futuristic visual direction and interactive web elements.
 
 <h3>🔥 GitHub Streak</h3>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=heshanmadhuwantha&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF6B00&currStreakLabel=FF3131&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=00D9FF&dates=AAAAAA" alt="GitHub Streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=heshanmadhuwantha&theme=dark&hide_border=true&background=0B1020&ring=FF4FD8&fire=FF8A00&currStreakLabel=FF4FD8&sideLabels=F5F7FF&currStreakNum=F5F7FF&sideNums=00F5FF&dates=AAAAAA" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -200,12 +200,12 @@ Designed with a futuristic visual direction and interactive web elements.
 <tr>
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-stats-extended.vercel.app/api?username=heshanmadhuwantha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF6B00&text_color=FFFFFF&ring_color=9B00FF" alt="GitHub Statistics"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=heshanmadhuwantha&show_icons=true&hide_border=true&bg_color=0B1020&title_color=FF4FD8&icon_color=FF8A00&text_color=F5F7FF&ring_color=8B5CF6" alt="GitHub Statistics"/>
 
 </td>
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=heshanmadhuwantha&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=heshanmadhuwantha&layout=compact&hide_border=true&bg_color=0B1020&title_color=00F5FF&text_color=F5F7FF" alt="Top Languages"/>
 
 </td>
 </tr>
@@ -223,7 +223,7 @@ Designed with a futuristic visual direction and interactive web elements.
 
 <a href="https://github.com/heshanmadhuwantha">
 
-<img width="95%" src="https://github-act-graph.rodriaum.com/graph?username=heshanmadhuwantha&bg_color=0D1117&color=FFFFFF&line=FF3131&point=00D9FF&area=true&hide_border=true" alt="Heshan's GitHub Activity Graph"/>
+<img width="95%" src="https://github-act-graph.rodriaum.com/graph?username=heshanmadhuwantha&bg_color=0B1020&color=F5F7FF&line=FF4FD8&point=00F5FF&area=true&hide_border=true" alt="Heshan's GitHub Activity Graph"/>
 
 </a>
 
@@ -259,12 +259,12 @@ Designed with a futuristic visual direction and interactive web elements.
 <tr>
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heshanmadhuwantha&theme=github_dark" alt="GitHub Statistics"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heshanmadhuwantha&theme=radical" alt="GitHub Statistics"/>
 
 </td>
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heshanmadhuwantha&theme=github_dark&utcOffset=5.5" alt="GitHub Productive Time"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heshanmadhuwantha&theme=radical&utcOffset=5.5" alt="GitHub Productive Time"/>
 
 </td>
 </tr>
@@ -276,12 +276,12 @@ Designed with a futuristic visual direction and interactive web elements.
 <tr>
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshanmadhuwantha&theme=github_dark" alt="Repositories Per Language"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshanmadhuwantha&theme=radical" alt="Repositories Per Language"/>
 
 </td>
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshanmadhuwantha&theme=github_dark" alt="Most Commit Language"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshanmadhuwantha&theme=radical" alt="Most Commit Language"/>
 
 </td>
 </tr>
@@ -298,23 +298,23 @@ Designed with a futuristic visual direction and interactive web elements.
 <p>💬 Let's connect, collaborate and build something extraordinary together!</p>
 
 <a href="https://www.linkedin.com/in/heshanmadhuwantha/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00B9FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/hesh___27/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-FF4D6D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="mailto:heshanmadhuwantha2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-FF2EDB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/heshanmadhuwantha">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://heshanmadhuwantha.github.io/Madhuwantha-portfolio/#about">
-<img src="https://img.shields.io/badge/Portfolio-Visit-9B59B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -331,6 +331,6 @@ Designed with a futuristic visual direction and interactive web elements.
 
 **Stay Creative. Keep Learning. Never Stop Building.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,25:9B00FF,55:FF3131,100:120000&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,25:8B5CF6,55:FF4FD8,100:090B14&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
 
 </div>
